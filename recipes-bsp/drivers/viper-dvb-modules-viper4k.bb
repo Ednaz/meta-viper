@@ -1,7 +1,7 @@
 KV = "4.4.35"
 SRCDATE = "20190415"
 
-require amiko-dvb-modules-hisi.inc
+require viper-dvb-modules-hisi.inc
 
 COMPATIBLE_MACHINE = "viper4k"
 
