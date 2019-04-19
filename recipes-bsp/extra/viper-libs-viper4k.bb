@@ -1,6 +1,6 @@
 SRCDATE = "20190415"
 
-require amiko-libs.inc
+require viper-libs.inc
 
 COMPATIBLE_MACHINE = "viper4k"
 
